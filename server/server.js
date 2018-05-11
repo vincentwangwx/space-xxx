@@ -182,3 +182,9 @@ console.log("cc res is : "+ cc.currentNow()); */
 });
 
 module.exports = {app}; */
+
+//i make some changes for hotfix.
+// hot
+// fix
+// haha.
+
